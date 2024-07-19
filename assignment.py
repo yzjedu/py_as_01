@@ -7,7 +7,7 @@
 
 def main():
     
-    '''This program Computes the amount of paint needed'''
+    '''This program Computes the amount of paint needed one more'''
     # Step 1: Ask the user for the dimensions of the room
     # The three dimensions are length - height - width 
 
