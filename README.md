@@ -11,17 +11,17 @@ Write a Python program that asks the user for the dimensions (length, width, and
 
 ## Instructions
 
-1. Implement the Python code in `assignment.py`.
-2. Use comments to write the algorithm your program will follow.
-3. Create an Excel file with at least five test cases. Use one row per test case with one column for the case's description, one column for each input, and one column for each corresponding output.
-4. Test your completed code using your test cases. If the output doesn't match, correct your program.
-5. Commit and push your `.py` file changes to GitHub.
-6. Upload the Excel file with test cases to Moodle.
+0. Accept the assignment
+1. Clone the repo to your machince
+2. Complete the Python code in `assignment.py`.
+3. Use comments to write the algorithm your program will follow.
+4. Run the following command to instal unit testing package `pip install pytest`
+5. Test your completed code using `pytest`. If the test fail, correct your program and test again.
+6. Commit and push your project to GitHub.
 
 ## Submission
 
-- **GitHub:** Commit and push your `assignment.py` file to your repository.
-- **Moodle:** Submit the Excel file with test cases. Optionally, submit a Jupyter notebook if you used one.
+- **GitHub:** Commit and push your project to your repository.
 
 ## Team Members
 
@@ -29,7 +29,7 @@ Write a Python program that asks the user for the dimensions (length, width, and
 
 ## Course
 
-- CS701/GB735, Dr. Rajeev
+- CS701/GB735, Dr. Yalew
 
 ## Date
 
