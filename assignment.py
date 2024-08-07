@@ -13,7 +13,7 @@ def main():
 
 
     # Step 2: Compute the total area of the four walls and ceiling
-    # Area of walls = 2 * (length * height + width * height)
+    # Area of walls = 2 * ((length * height) + (width * height))
    
     # Area of ceiling = length * width
    
